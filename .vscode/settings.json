@@ -13,5 +13,9 @@
     "emmet.includeLanguages": {},
     "emmet.showExpandedAbbreviation": "never",
     "emmet.triggerExpansionOnTab": false,
+<<<<<<< HEAD
     "emmet.extensionsPath": null
+=======
+    "emmet.extensionsPath": []
+>>>>>>> 6597783 (Initial commit)
 }
