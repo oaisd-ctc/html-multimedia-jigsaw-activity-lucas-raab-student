@@ -1,1 +1,5 @@
-body{background-color:lightblue}
+body {
+    background-color: lightblue;
+    color: red;
+    text-align: center
+}
